@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文审稿"
+  short_description: "核实页码行号，兼顾核心科学问题、简短方法建议与具体小错误，生成精炼审稿意见"
+  default_prompt: "请用 $review-manuscript 审阅我提供的论文，核实每条意见的页码和行号，保留少量展开的核心建议，并指出具体小错误；如有审稿示例，请参考其风格。"
